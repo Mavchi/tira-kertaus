@@ -1,0 +1,27 @@
+
+Viikko 1
+- onnenluvut X
+- Lista X
+- Osajonot X
+- Lukujono X
+- Kuningatar ja ratsu 
+- Suorakulmiot
+
+Viikko 2
+Tällä viikolla viidessä ensimmäisessä tehtävässä tavoitteena on tehdä tehokas 
+O(n)-aikainen algoritmi. Tehtäviä testataan myös suurella syötteellä kokoa n=10*5, 
+jolloin on tärkeää, että algoritmi on tehokas.
+
+Vaatimus O(n)-aikaisuudesta tarkoittaa käytännössä, että algoritmissa saa olla yksi 
+tai useampi yksittäinen silmukka, jotka käyvät läpi merkkijonon merkit tai listan 
+alkiot. Kuitenkin jos algoritmissa on kaksi sisäkkäistä silmukkaa, sen aikavaativuus 
+on O(n2), mikä on liian hidasta.
+
+Kuudennessa tehtävässä syötteen koko voi olla n=109, jolloin jopa O(n)-aikainen 
+algoritmi on liian hidas. Tässä tehtävässä haetaan O(1)-aikaista algoritmia.
+- Yksi merkki X
+- Bittijono X
+- Sama merkki X
+- Listan halkaisu X
+- Kaksi merkkiä
+- Kolmeen summa
